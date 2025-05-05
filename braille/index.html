@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="OPenVäder Braille Period Elements Table by Mende'LeeвARdavelid3e">
+    <link rel="stylesheet" href="style.css">
+    <title>Braille Period Elements Table by Mende'LeeвARdavelid3e</title>
+  
+    <!-- CSS only -->
+    <link href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/all.css" />
+    <style>
+        .zoom-tool-bar {
+            position: fixed;
+            bottom: 0;
+            right: 0;
+            width: 100%;
+            height: 31px;
+            padding: 3px 0;
+            background: rgba(49, 65, 82, 0.7);
+            font-size: 13px;
+            z-index: 9999;
+            color: #fff;
+        }
+
+        .zoom-tool-bar i {
+            color: #77b3ff;
+            font-size: 16px;
+        }
+
+        /* begins eye Scroller coloredgreen at middle */
+        /* scroll-snap-align: center; */
+        /* scrollbar-color: #28071974 #19740319; */
+    </style>
+
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;300;400;500&amp;family=Raleway:wght@100;200;300;400;500&amp;family=Roboto:wght@300;400;700&amp;display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="./css/stallink.css" rel="stylesheet">
+    <script src="./js/jquery.min.js"></script>
+    <script src="./js/particles.min.js"></script>
+</head>
+
+<body>
+
+    </div>
+    <div class="zoom-tool-bar"></div>
+
+    <div id="content">
+        <div class="container" style="display:auto" data-zoomable>
+
+            <iframe src='https://aibolem.github.io/chart-nuclide/example/nuclide.svg' width=9100px; height=6100px; frameborder='0' scrolling='no' id='swintro' name='iframe2' z-index: 100;></iframe>
+        
+        </div>
+      
+    </div>
+
+    <div class="Titles">
+
+    </div>
+
+
+    </div>
+    </div>
+    <div class="image">
+        <canvas class="background"></canvas>
+
+        <script src="https://aibolem.github.io/content-zoom-slider/src/content-zoom-slider.min.js"></script>
+        <script>
+            $(function() {
+                $("#content").contentZoomSlider({
+                    toolContainer: ".zoom-tool-bar",
+                    step: 5,
+                    zoom: 25,
+                    max: 125
+                });
+            });
+        </script>
+
+        <script>
+            const swintro = document.getElementById('swintro');
+
+            // swintro .scrollIntoView(true);
+            swintro.scrollIntoView({
+                block: 'center',
+            });
+        </script>
+
+    </div>
+    </div>
+</body>
+</div>
+
+</html>
