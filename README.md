@@ -1,4 +1,4 @@
-# TbIICSA₽
+# TbIICSA₽ <img src="https://raw.githubusercontent.com/aibolem/WebWorldWind/refs/heads/master/examples/data/blageos.png" height="100"/>
 Большая_периодическая_таблица_элементов by Ansambler &amp; МЕЛОДИЯჼ ®Aibolem "ß.il©kARµ" {barჼbarn[av_mitt_bA₽вÅ℞'"'Д]©КӨЛЯRჼ} TblI©A℞u4ØӨჼ$₽. Э€ Bёrn@вАкеЯАd sien©e 1932. Wirtschaft Nüts &amp; TÆgи АвтомАтизАциЯ ГАРмоჼЭ€u©
 
 Выскажусь на вордигинал диаЛЭКТ дяди МенДЭЛёв и ЛОМОНОСОВ, думаю справидливо науку рассматривать на илижек в вордигинал и вероятно этому меня вучили староворды из ТАбЛи©и. Немцы очень вероятно Хемцы, тойсть химики в ₽_Russi u $_Russi ...
