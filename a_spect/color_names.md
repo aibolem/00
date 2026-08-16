@@ -1,0 +1,141 @@
+<html>
+<head>
+<style>
+body
+{
+  font-family: Verdana, Arial, Sans-Serif;
+  font-size: 15px; 
+  line-height: 22px;
+  
+  color: #CCFFFF;
+  
+  background-attachment: fixed!important;
+  
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#222a36+0,213139+20,24343c+50,202f36+51,21333b+59,2a4450+71,203136+84,19252d+100 */
+background: #222a36; /* Old browsers */
+background: -moz-linear-gradient(top,  #222a36 0%, #213139 20%, #24343c 50%, #202f36 51%, #21333b 59%, #2a4450 71%, #203136 84%, #19252d 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #222a36 0%,#213139 20%,#24343c 50%,#202f36 51%,#21333b 59%,#2a4450 71%,#203136 84%,#19252d 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #222a36 0%,#213139 20%,#24343c 50%,#202f36 51%,#21333b 59%,#2a4450 71%,#203136 84%,#19252d 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#222a36', endColorstr='#19252d',GradientType=0 ); /* IE6-9 */
+
+}
+
+a
+{   color: #00FFFF;
+    text-decoration: none;
+}
+
+a:visited
+{   color: #00CCFF;
+}
+
+a:hover
+{   text-decoration: underline;
+}
+
+table
+{   margin: auto;
+}
+
+table.spaced_out td
+{   padding-left: 25px;
+    padding-right: 25px;
+}
+
+.ilooklikeabutton
+{   border: 3px solid;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 40px;
+    width: auto;
+    display: inline;
+    
+    border-color: #fff #00f #006 #39f;
+    
+    color: #024;
+    text-shadow: 2px 2px 2px #fff, -2px -2px 2px #000;
+    
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#cedbe9+0,aac5de+17,6199c7+50,3a84c3+51,419ad6+59,4bb8f0+71,3a8bc2+84,26558b+100;Blue+Gloss */
+background: rgb(206,219,233); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(206,219,233,1) 0%, rgba(170,197,222,1) 17%, rgba(97,153,199,1) 50%, rgba(58,132,195,1) 51%, rgba(65,154,214,1) 59%, rgba(75,184,240,1) 71%, rgba(58,139,194,1) 84%, rgba(38,85,139,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(206,219,233,1) 0%,rgba(170,197,222,1) 17%,rgba(97,153,199,1) 50%,rgba(58,132,195,1) 51%,rgba(65,154,214,1) 59%,rgba(75,184,240,1) 71%,rgba(58,139,194,1) 84%,rgba(38,85,139,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedbe9', endColorstr='#26558b',GradientType=0 ); /* IE6-9 */
+
+}
+
+a:hover .ilooklikeabutton, .ilooklikeabutton:hover
+{   text-decoration: none!important;
+
+    /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#a5f1ff+0,75edff+40,2fe0ff+100 */
+background: rgb(165,241,255); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(165,241,255,1) 0%, rgba(117,237,255,1) 40%, rgba(47,224,255,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(165,241,255,1) 0%,rgba(117,237,255,1) 40%,rgba(47,224,255,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(165,241,255,1) 0%,rgba(117,237,255,1) 40%,rgba(47,224,255,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a5f1ff', endColorstr='#2fe0ff',GradientType=0 ); /* IE6-9 */
+
+}
+
+.pecral
+{   background-color: #000;
+    padding: 15px;
+}
+
+.pecral td
+{   padding: 5px;
+}
+
+</style>
+</head>
+<body>
+<center><H2>ელემენტების სპექტრების ამოცნობის სწავლა</H2></center>
+
+<p>შესაძლებელია თითოეული ელემენტის ვიზუალურად ამოცნობა მისი სპექტრით. მაგრამ როგორ შეიძლება ვინმემ იცოდეს ყველა მათგანი,
+როდესაც არსებობს 98 ელემენტი ცნობილი ვიზუალური სპექტრებით?
+ამ გვერდებზე ჩვენ დავახარისხებთ მათ და მნიშვნელოვნად გავამარტივებთ ამ დამახსოვრების ამოცანას მსგავსებების შედარებით და განსხვავებების მითითებით.
+საუკეთესო შედეგისთვის, ჩვენ გირჩევთ 1920x1080 მონიტორის გარჩევადობას ამ გვერდების სანახავად.
+</p>
+
+<p>ეს სახელმძღვანელო იყენებს ფერების სახელებს სხვადასხვა სპექტრული მახასიათებლების ვიზუალური იერსახის აღსაწერად.
+ფერის აღქმა ოდნავ განსხვავდება ინდივიდიდან ინდივიდამდე, მაგრამ ნორმალური ფერის მხედველობის მქონე ადამიანები საკმაოდ თანმიმდევრულად აღიქვამენ ტალღის სიგრძეებს.
+ფერები შეიძლება განსხვავებულად გამოიყურებოდეს სხვა ფერებთან ერთად, მაგალითად, ნატრიუმის ყვითელი ნარინჯისფრად გამოიყურება რკინის კაშკაშა მწვანე ხაზების არეულობის გვერდით,
+მაგრამ განსხვავება იმდენად მცირეა, რომ ზოგადად შეგვიძლია მივცეთ ფერების სახელები საცნობარო ტალღის სიგრძეებს და სახელები უმეტეს შემთხვევაში ზუსტი იყოს.
+</p>
+
+<p>ამ სახელმძღვანელოში გამოყენებული ფერების სახელწოდებები და მათი წარმომადგენლობითი ტალღის სიგრძეებია:
+</p>
+
+<center>
+<table class="pecral">
+<tr><td style="color: #f04;">660 ნმ</td><td>ალუბლისფერი წითელი</td>
+<td style="color: #0f9;">520 ნმ</td><td>ზურმუხტისფერი მწვანე</td>
+</tr>
+<tr><td style="color: #f00;">630 ნმ</td><td>წითელი</td>
+<td style="color: #0fc;">500 ნმ</td><td>ფირუზისფერი</td>
+</tr>
+<tr><td style="color: #f30;">610 ნმ</td><td>ნარინჯისფერ-წითელი</td>
+<td style="color: #0cf;">490 ნმ</td><td>აკვა</td>
+</tr>
+<tr><td style="color: #f70;">595 ნმ</td><td>ნარინჯისფერი</td>
+<td style="color: #07f;">480 ნმ</td><td>ლურჯი</td>
+</tr>
+<tr><td style="color: #fa0;">590 ნმ</td><td>ქარვისფერი</td>
+<td style="color: #02f;">465 ნმ</td><td>ლურჯი</td>
+</tr>
+<tr><td style="color: #ff0;">580 ნმ</td><td>ყვითელი</td>
+<td style="color: #20f;">450 ნმ</td><td>ინდიგო</td>
+</tr>
+<tr><td style="color: #9f0;">565 ნმ</td><td>შარტრეზ</td>
+<td style="color: #50f;">420 ნმ</td><td>იისფერი</td>
+</tr>
+<tr><td style="color: #3f0;">550 ნმ</td><td>ბალახისფერი მწვანე</td>
+<td style="color: #64f;">390 ნმ</td><td>მუქი იისფერი</td>
+</tr>
+</tr>
+</table>
+</center>
+
+<p>700-800 ნმ ტალღის სიგრძეები შორეულ წითლად ითვლება.</p>
+</body>
+</html>
+
